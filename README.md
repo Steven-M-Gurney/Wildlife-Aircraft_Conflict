@@ -22,3 +22,6 @@ ________________________________________________________________________________
 
 ### [Smithsonian.R](./Smithsonian.R): Code for summarizing annual strike samples sent to the Smithsonian lab for testing.
 
+### [Pilot_Reporting.R](./Pilot_Reporting.R): Code for summarizing annual strike resports submitted by pilots.
+
+
