@@ -1,4 +1,4 @@
-# DTW Wildlife–Aircraft Strike Analysis (2016–2024)
+# DTW Wildlife–Aircraft Strike Analysis
 
 ### [Steven Gurney](https://linktr.ee/stevenmgurney)
 
@@ -8,7 +8,7 @@
 __________________________________________________________________________________________________________________________________________
 
 ## Summary
-This project provides a reproducible workflow for summarizing and reporting wildlife–aircraft strike activity at Detroit Metropolitan Wayne County Airport (DTW). By compiling and standardizing multiple years of strike data, the project supports annual reporting, safety performance monitoring, and wildlife-hazard risk assessment. The resulting summaries and visualizations help inform airport wildlife-management decisions and regulatory compliance.
+This project provides a reproducible workflow for summarizing and reporting wildlife–aircraft strike activity at Detroit Metropolitan Wayne County Airport (DTW). By compiling and standardizing multiple years of strike data (2016–2024), the project supports annual reporting, safety performance monitoring, and wildlife-hazard risk assessment. The resulting summaries and visualizations help inform airport wildlife-management decisions and regulatory compliance.
 __________________________________________________________________________________________________________________________________________
 
 ## Repository Directory
