@@ -1,4 +1,4 @@
-# Wildlife–Aircraft Strike Data Analysis for DTW (2016–2024)
+# DTW Wildlife–Aircraft Strike Analysis (2016–2024)
 
 ### [Steven Gurney](https://linktr.ee/stevenmgurney)
 
