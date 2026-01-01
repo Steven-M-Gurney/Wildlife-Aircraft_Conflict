@@ -16,8 +16,6 @@ ________________________________________________________________________________
 
 ### [faa_strikes_2016_2024_clean.csv](./faa_strikes_2016_2024_clean.csv): Prepped FAA strike data for DTW, used in the workflow here and created using Strike_Data_Prep.R.
 
-### [wcaa_strikes_2016_2024_clean.csv](./wcaa_strikes_2016_2024_clean.csv): Prepped WCAA strike data for DTW, used in the workflow here and created using Strike_Data_Prep.R.
-
 ### [ops_2016_2024.csv](./ops_2016_2024.csv): Prepped DTW aircraft-operations data, used in the workflow here and created using Strike_Data_Prep.R.
 
 ### [Strike_Data_Prep.R](./Strike_Data_Prep.R): Code for prepping FAA and WCAA data, including DTW aircraft operations.
