@@ -31,3 +31,7 @@ ________________________________________________________________________________
 ### [Disruptive.R](./Disruptive.R): Code for summarizing annual disruptive strike reports, calculating annual disruptive rates, and producing a control chart.
 
 ### [Gulls.R](./Gulls.R): Code for prepping gull data and summarizing gull strikes by day of week.
+
+## Supplemental Information
+
+### [Strike_Summaries_2024.pdf](./Strike_Summaries_2024.pdf): High-level presentation given to the DTW Wildlife Hazard Management Committee, February 2025.
