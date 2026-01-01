@@ -19,3 +19,6 @@ ________________________________________________________________________________
 ### [ops_2016_2024.csv](./ops_2016_2024.csv): Prepped DTW aircraft-operations data, used in the workflow here and created using Strike_Data_Prep.R.
 
 ### [Strike_Data_Prep.R](./Strike_Data_Prep.R): Code for prepping FAA and WCAA data, including DTW aircraft operations.
+
+### [Smithsonian.R](./Smithsonian.R): Code for summarizing annual strike samples sent to the Smithsonian lab for testing.
+
