@@ -26,6 +26,8 @@ ________________________________________________________________________________
 
 ### [Summaries.R](./Summaries.R): Code for summarizing annual strike resports by runway, guild, species, and month.
 
-### [Damage.R](./Damage.R): Code for summarizing annual damaging strike resports, calculating annual damaging rates, and produce a control chart.
+### [Damage.R](./Damage.R): Code for summarizing annual damaging strike resports, calculating annual damaging rates, and producing a control chart.
+
+### [Disruptive.R](./Disruptive.R): Code for summarizing annual disruptive strike reports, calculating annual disruptive rates, and producing a control chart.
 
 
