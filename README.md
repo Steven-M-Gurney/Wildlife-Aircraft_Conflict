@@ -34,4 +34,4 @@ ________________________________________________________________________________
 
 ## Supplemental Information
 
-### [Strike_Summaries_2024.pdf](./Strike_Summaries_2024.pdf): High-level presentation given to the DTW Wildlife Hazard Management Committee, February 2025.
+### [Strike_Summaries_2024.pdf](./Strike_Summaries_2024.pdf): Relative presentation given to the DTW Wildlife Hazard Management Committee, February 2025.
